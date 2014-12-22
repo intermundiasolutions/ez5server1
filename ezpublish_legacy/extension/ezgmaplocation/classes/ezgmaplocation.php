@@ -3,7 +3,7 @@
 // Definition of eZGmapLocation class
 //
 // SOFTWARE NAME: Blend Gmap Location Class
-// SOFTWARE RELEASE: 0.5
+// SOFTWARE RELEASE: 5.3.0
 // COPYRIGHT NOTICE: Copyright (C) 2006-2009 Blend Interactive, 1999-2014 eZ Systems AS
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >

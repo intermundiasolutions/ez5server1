@@ -3,7 +3,7 @@
  * Template autoload definition for eZ Starrating
  *
  * @copyright Copyright (C) eZ Systems AS.
- * @license For full copyright and license information view LICENSE file distributed with this source code.
+ * @license http://ez.no/licenses/gnu_gpl GNU General Public License v2.0
  *
  */
 
