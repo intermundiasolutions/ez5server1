@@ -1,0 +1,6 @@
+[ Nov 16 2014 14:36:34 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/template/compiled is not a folder
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/override is not a folder
